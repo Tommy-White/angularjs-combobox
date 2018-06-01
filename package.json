@@ -1,0 +1,22 @@
+{
+  "name": "angularjs-combobox",
+  "version": "0.0.1",
+  "description": "**angularjs-combobox is a Angularjs based combobox let you input what you what to choice.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tommy-white/angularjs-combobox.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tommy-white/angularjs-combobox/issues"
+  },
+  "homepage": "https://github.com/tommy-white/angularjs-combobox#readme",
+  "dependencies": {
+    "bower": "^1.8.4"
+  }
+}
